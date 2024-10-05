@@ -1,7 +1,7 @@
 # codsoft-task03
-import java.util.Scanner;
+    import java.util.Scanner;
 
-class BankAccount {
+    class BankAccount {
     private double balance;
 
     public BankAccount(double balance) {
