@@ -62,15 +62,15 @@
                     return;
                 default:
                     System.out.println("Invalid option. Please choose a valid option.");
-            }
-        }
-    }
-}
+                }
+                }
+                }
+                }
 
-public class Main {
-    public static void main(String[] args) {
-        BankAccount account = new BankAccount(1000.0);
-        ATM atm = new ATM(account);
-        atm.run();
-    }
-}
+                public class Main {
+                public static void main(String[] args) {
+                BankAccount account = new BankAccount(1000.0);
+                ATM atm = new ATM(account);
+                atm.run();
+                }
+                }
