@@ -1,4 +1,4 @@
-# codsoft-task03
+    # codsoft-task03
     import java.util.Scanner;
 
     class BankAccount {
@@ -27,7 +27,7 @@
     }
 }
 
-class ATM {
+    class ATM {
     private BankAccount account;
 
     public ATM(BankAccount account) {
