@@ -25,7 +25,7 @@
         balance += amount;
         System.out.println("Deposit successful. New balance: " + balance);
     }
-}
+    }
 
     class ATM {
     private BankAccount account;
